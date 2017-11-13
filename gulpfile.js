@@ -1,7 +1,7 @@
 /**
  * Sam Grundman's Super Awesome Gulp Web Development Toolset
  *
- * @version 1.0.4.3
+ * @version 1.0.4.4
  */
 'use strict';
 
@@ -687,7 +687,7 @@ body > nav {\n\tdisplay: flex;\n\tflex-flow: row wrap;\n\tjustify-content: space
 			done()
 			return
 		}
-		const str = `<h1>Home</h1>\n`
+		const str = `<h2>Home</h2>\n`
 		return plugins.newFile(`home.html`, str, { src: true })
 			.pipe(gulp.dest(`./src/pages`))
 	},
