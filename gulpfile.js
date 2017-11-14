@@ -1,7 +1,7 @@
 /**
  * Sam Grundman's Super Awesome Gulp Web Development Toolset
  *
- * @version 1.0.4.4
+ * @version 1.0.5
  */
 'use strict';
 
@@ -656,7 +656,8 @@ angular.module('${argv.name}', [\n\t'ngRoute',\n])
 			done()
 			return
 		}
-		const str = `body > header {\n\tcolor: $header-color;\n\tbackground: $header-bg;\n
+		const str = `$header-color: black;\n$header-bg: lightgreen;\n$header-second-color: black;\n
+body > header {\n\tcolor: $header-color;\n\tbackground: $header-bg;\n
 \th1 {\n\t\tmargin: 0;\n\t}\n\n\th2 {\n\t\tcolor: $header-second-color;\n\t}\n}\n
 body > nav {\n\tdisplay: flex;\n\tflex-flow: row wrap;\n\tjustify-content: space-between;
 \talign-content: flex-start;\n\talign-items: flex-start;\n
