@@ -1,7 +1,5 @@
 /**
  * Sam Grundman's Super Awesome Gulp Web Development Toolset
- *
- * @version 1.0.5
  */
 'use strict';
 
@@ -41,6 +39,11 @@ const argv = require('yargs')
 			describe: 'Name for your new component',
 			required: true,
 			alias: 'n',
+		},
+		section: {
+			describe: 'Section under which to add component',
+			default: '',
+			alias: 's',
 		},
 	})
 	.command('generate:page', 'Generate a new page', {
@@ -517,8 +520,8 @@ gulp.task('generate:page', gulp.series(
 		done()
 	},
 	plugins.cli([
-		`mkdir -pv ./src/pages/${argv.section}/${argv.name}`,
-		`touch -a ./src/pages/${argv.section}/${argv.name}/${argv.name}.scss`,
+		`mkdir -pv ./src/pages/${argv.section}${argv.name}`,
+		`touch -a ./src/pages/${argv.section}${argv.name}/${argv.name}.scss`,
 	]),
 	() => {
 		const str = `<h2>${argv.name}</h2>\n`
@@ -526,13 +529,13 @@ gulp.task('generate:page', gulp.series(
 			.pipe(gulp.dest(`./src/pages/${argv.section}${argv.name}`))
 	},
 	() => {
-		const str = `'use strict';\n\nangular.module('${camelCase('page-'+argv.name)}', [\n\t'ngRoute',\n])\n`
+		const str = `'use strict';\n\nangular.module('${camelCase('page-'+argv.section+'-'+argv.name)}', [\n\t'ngRoute',\n])\n`
 		return plugins.newFile('module.js', str, { src: true })
 			.pipe(gulp.dest(`./src/pages/${argv.section}${argv.name}`))
 	},
 	() => {
 		const str = `'use strict';\n
-angular.module('${camelCase('page-'+argv.name)}')
+angular.module('${camelCase('page-'+argv.section+'-'+argv.name)}')
 .config(['$locationProvider', '$routeProvider', function($locationProvider, $routeProvider) {
 \t$routeProvider.when('/${argv.section}${argv.name}/', {
 \t\ttemplateUrl: 'pages/${argv.section}${argv.name}/${argv.name}.html',
@@ -550,26 +553,32 @@ angular.module('${camelCase('page-'+argv.name)}')
 ))
 
 gulp.task('generate:component', gulp.series(
+	(done) => {
+		if (argv.section) {
+			argv.section += '/'
+		}
+		done()
+	},
 	plugins.cli([
-		`mkdir -pv src/components/${argv.name}`,
-		`touch -a src/components/${argv.name}/${argv.name}.html`,
-		`touch -a src/components/${argv.name}/${argv.name}.scss`,
+		`mkdir -pv src/components/${argv.section}${argv.name}`,
+		`touch -a src/components/${argv.section}${argv.name}/${argv.name}.html`,
+		`touch -a src/components/${argv.section}${argv.name}/${argv.name}.scss`,
 	]),
 	() => {
-		const str = `'use strict';\n\nangular.module('${camelCase('comp-'+argv.name)}', [])\n`
+		const str = `'use strict';\n\nangular.module('${camelCase('comp-'+argv.section+'-'+argv.name)}', [])\n`
 		return plugins.newFile('module.js', str, { src: true })
-			.pipe(gulp.dest(`./src/components/${argv.name}`))
+			.pipe(gulp.dest(`./src/components/${argv.section}${argv.name}`))
 	},
 	() => {
 		const str = `'use strict';\n
-angular.module('${camelCase('comp-'+argv.name)}')
-.component('${camelCase(argv.name)}', {
-\ttemplateUrl: 'components/${argv.name}/${argv.name}.html',
+angular.module('${camelCase('comp-'+argv.section+'-'+argv.name)}')
+.component('${camelCase(argv.section+'-'+argv.name)}', {
+\ttemplateUrl: 'components/${argv.section}${argv.name}/${argv.name}.html',
 \tcontrollerAs: '$ctrl',
 \tcontroller() {\n\t}
 })\n`
 		return plugins.newFile(`${argv.name}.js`, str, { src: true })
-			.pipe(gulp.dest(`./src/components/${argv.name}`))
+			.pipe(gulp.dest(`./src/components/${argv.section}${argv.name}`))
 	},
 	// TODO: Add to app.js
 	plugins.cli([
