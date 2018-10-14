@@ -1,10 +1,7 @@
-'use strict';
+/* app.json */
 
-angular.module('luna-civitatem', [
-	'ngRoute',
-	'pageCharterCh1',
-])
-.config(['$locationProvider', '$routeProvider', function($locationProvider, $routeProvider) {
+angular.module('luna-civitatem', modules)
+.config(['$routeProvider', function($routeProvider) {
 	$routeProvider.when('/', {
 		templateUrl: 'pages/home.html',
 	})

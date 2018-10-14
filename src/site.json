@@ -1,0 +1,31 @@
+{
+	"name":"Luna Civitatem",
+	"modules":[
+		"ngRoute"
+	],
+	"components":[
+		{
+			"name":"header-nav",
+			"module":"compHeaderNav"
+		}
+	],
+	"sections":[
+		{
+			"name":"Charter",
+			"pages":[
+				{
+					"name":"Chapter 1 &ndash; Organization and Powers",
+					"path":"charter/ch1/",
+					"module":"pageCharterCh1"
+				},
+				{
+					"name":"Chapter 2 &ndash; Elections",
+					"path":"charter/ch2/",
+					"module":"pageCharterCh2"
+				}
+			]
+		}
+	],
+	"pages":[
+	]
+}

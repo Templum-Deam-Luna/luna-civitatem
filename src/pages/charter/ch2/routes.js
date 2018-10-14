@@ -1,5 +1,3 @@
-'use strict';
-
 angular.module('pageCharterCh2')
 .config(['$routeProvider', function($routeProvider) {
 	$routeProvider.when('/charter/ch2/', {
@@ -7,5 +5,5 @@ angular.module('pageCharterCh2')
 		controllerAs: '$ctrl',
 		controller() {
 		},
-	})
-}])
+	});
+}]);

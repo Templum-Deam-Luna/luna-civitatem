@@ -1,0 +1,29 @@
+{
+	"name": "luna-civitatem",
+	"components":[
+		{
+			"module":"compHeaderNav",
+			"path":"header-nav"
+		}
+	],
+	"sections":[
+		{
+			"name":"Charter",
+			"path":"charter",
+			"pages:[
+				{
+					"module":"pageCharterCh1",
+					"path":"ch1"
+				},
+				{
+					"module":"pageCharterCh2",
+					"path":"ch2"
+				}
+			]
+		}
+	],
+	"modules":[
+		"ngRoute"
+	],
+	"pages":[]
+}
