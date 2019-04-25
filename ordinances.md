@@ -66,16 +66,54 @@ Zoning
 
 * [ ] Buildings, except as required otherwise, shall have their footprint fit with a square
 	200 feet on each side.
+* [ ] The building's main entrance shall face the street and the entrance with the building's
+	building number must be clearly visible from the street. Secondary entrances that face a
+	street must also have the building number, and building's address street name if different
+	than the street faced.
+* [ ] A building shall not be setback from the public sidewalk by more than 20 feet. May allow
+	variance for some single-family housing zones. Some commercial zones may allow a larger
+	setback for off-street parking, but only to allow no more than two rows of parked cars.
 
 ### Residential Districts
 
 ### Commercial Districts
 
-* [ ] Shopping centers must be multi-story with residential or offices above the stores
+* [ ] Commercial buildings must be multi-story, preferably with residential or offices above
+	retail. Reserving the second floor for private storage space for ground-floor use shall not
+	be permitted. The multiple stories must be for use by people.
 * [ ] Stores cannot be more than ~10,000 square feet on the ground floor (or any floor with
-	direct access to the streets)
+	direct access to the streets). A variance may be granted for big box stores and other retail
+	that normally operates larger stores, but they cannot break building footprint size
+	restrictions (40,000 sqft) or multi-use requirements. Building multi-story stores is
+	preferable and encouraged.
 * [ ] Malls shall be built under a public Boulevard (or have a Boulevard built over them) and
-	provide pedestrian access to both sides thereof
+	provide pedestrian access to both sides thereof. A "mall" being defined as at least
+	200,000 sqft of retail space under one roof, whether for one occupant/leaser or divided
+	amongst multiple. "Outdoor" shopping malls must be divided between multiple buildings and
+	follow the provisions of subdivisions and commercial districts.
+	
+#### Appendix for reference:
+* Average size of McDonald's: 4,000 sqft
+* Prototype for Walgreens stores: 14,500 sqft
+* Average size of Walmart: 105,000 sqft
+* Average size of Target: 135,000 sqft
+* Average size of Super Target: 175,000 sqft
+* Southgate Mall, Elizabeth City, NC: 250,000 sqft [GLA]
+* RiverGate, Charlotte, NC: 750,000 sqft [GLA] (outdoor)
+* Alamance Crossing in Burlington, NC: 855,000 sqft [GLA]
+* Northgate Mall, Durham, NC: 900,000 sqft [GLA]
+* Independence Mall, Wilmington, NC: 997,525 sqft [GLA]
+* Northlake Mall, Charlotte, NC: 1,071,000 sqft [GLA]
+* Four Seasons in Greensboro, NC: 1,141,000 [GLA] (outdoor)
+* Friendly Center in Greensboro, NC: 1,237,000 sqft [GLA]
+* Oak Hollow Mall, High Point, NC: 1,262,440 sqft [GLA]
+* Crabtree Valley Mall, Raligh, NC: 1,326,000 sqft [GLA]
+* The Streets at Southpoint, Durham, NC: 1,330,000 sqft [GLA] (partly outdoor)
+* Concord Mills, Concord, NC: 1,334,000 sqft [GLA]
+* Hanes Mall, Winston-Salem, NC: 1,558,860 sqft [GLA]
+* SouthPark Mall, Charlotte, NC: 1,676,223 sqft [GLA]
 
 ### Industrial Districts
 ### Institutional Districts
+
+[gla]: https://en.wikipedia.org/wiki/Floor_area#Gross_leasable_area
