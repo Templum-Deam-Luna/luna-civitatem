@@ -64,8 +64,9 @@ Zoning
 
 ### General Provisions
 
-* [ ] Buildings, except as required otherwise, shall have their footprint fit with a square
-	200 feet on each side.
+* [ ] Buildings, except as required otherwise, shall have their footprint fit within a square
+	200 feet on each side. A large store or office is not a valid exception; they can build
+	up. A factory or warehouse may be a valid exception.
 * [ ] The building's main entrance shall face the street and the entrance with the building's
 	building number must be clearly visible from the street. Secondary entrances that face a
 	street must also have the building number, and building's address street name if different
