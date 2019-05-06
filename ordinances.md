@@ -92,7 +92,7 @@ Zoning
 	200,000 sqft of retail space under one roof, whether for one occupant/leaser or divided
 	amongst multiple. "Outdoor" shopping malls must be divided between multiple buildings and
 	follow the provisions of subdivisions and commercial districts.
-	
+
 #### Appendix for reference:
 * Average size of McDonald's: 4,000 sqft
 * Prototype for Walgreens stores: 14,500 sqft
@@ -114,7 +114,12 @@ Zoning
 * Hanes Mall, Winston-Salem, NC: 1,558,860 sqft [GLA]
 * SouthPark Mall, Charlotte, NC: 1,676,223 sqft [GLA]
 
+* [ ] Stores on the ground floor must keep their windows open, always displaying
+	something or allowing view into the store. This is targeting vape shops that cover
+	their windows to stop any prying eyes&hellip; They can go on the second floor.
+
 ### Industrial Districts
+
 ### Institutional Districts
 
 [gla]: https://en.wikipedia.org/wiki/Floor_area#Gross_leasable_area
