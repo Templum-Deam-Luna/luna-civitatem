@@ -81,13 +81,15 @@ Zoning
 ### General Provisions
 
 * [ ] Buildings, except as otherise allowed below, shall have their footprint fit within a square
-	200 feet on each side. A large store or office is not a valid exception; they can build
-	up. A factory or warehouse are two valid exceptions.
+	200 feet on each side. A large store or office is not a valid exception; they can build up. A
+	factory or warehouse are possibly the only two valid exceptions.
 * [ ] The building's main entrance shall face the street and be clearly visible from the street.
 * [ ] Every building's street number must be clearly visible from the street. Secondary entrances
-	that face a street must also display the building number. If a building's secondary entrance
-	faces different street than that on the building's address, then the street name on the
-	building's address must also be displayed and clearly visible alongside the street number.
+	that face a street must also display the building number.
+* [ ] If a building's secondary entrance faces a different street than that on the building's address,
+	then the street name of the building's address must also be displayed and clearly visible
+	alongside the street number. This is also required for main entrances that face the corner of an
+	intersection.
 * [ ] If a building has multiple disjoint sections that each have a direct entrance onto a street
 	and is separated from the rest of the building's publically accessible areas main entrance, then
 	this section shall be assigned its own address with a separate street number along the street it
