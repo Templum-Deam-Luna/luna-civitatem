@@ -64,13 +64,20 @@ Zoning
 
 ### General Provisions
 
-* [ ] Buildings, except as required otherwise, shall have their footprint fit within a square
+* [ ] Buildings, except as otherise allowed below, shall have their footprint fit within a square
 	200 feet on each side. A large store or office is not a valid exception; they can build
-	up. A factory or warehouse may be a valid exception.
-* [ ] The building's main entrance shall face the street and the entrance with the building's
-	building number must be clearly visible from the street. Secondary entrances that face a
-	street must also have the building number, and building's address street name if different
-	than the street faced.
+	up. A factory or warehouse are two valid exceptions.
+* [ ] The building's main entrance shall face the street and be clearly visible from the street.
+* [ ] Every building's street number must be clearly visible from the street. Secondary entrances
+	that face a street must also display the building number. If a building's secondary entrance
+	faces different street than that on the building's address, then the street name on the
+	building's address must also be displayed and clearly visible alongside the street number.
+* [ ] If a building has multiple disjoint sections that each have a direct entrance onto a street
+	and is separated from the rest of the building that is publically accessible from the building's
+	main entrance, then this section shall be assigned its own address with a separate street number
+	along the street it is facing. For example, the main entrance opens to the lobby, but there's a
+	restaurant next to the lobby that has a separate entrance from the street, be it the same street
+	the lobby faces or not, then it needs its own address.
 * [ ] A building shall not be setback from the public sidewalk by more than 20 feet. May allow
 	variance for some single-family housing zones. Some commercial zones may allow a larger
 	setback for off-street parking, but only to allow no more than two rows of parked cars.
