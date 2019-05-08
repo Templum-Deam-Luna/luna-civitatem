@@ -23,6 +23,8 @@ Ordinances
 
 ## Human Relations
 
+## Land Management
+
 ## Licenses
 
 ## Miscellaneous Provisions
@@ -31,9 +33,13 @@ Ordinances
 
 ## Offenses
 
+## Parks and Recreation
+
 ## Police
 
 ## Soil Erosion and Sedimentation Control
+
+## Solid Waste Management
 
 ## Stormwater
 
@@ -74,7 +80,15 @@ Subdivisions
 * [ ] Require greenways on both sides of all creeks. This is done in Korea for flood control,
 	but is also a great amenity.
 
+## Taxation
+
+## Traffic and Vehicles
+
 ## Trees
+
+## Utilities
+
+## Vehicles for Hire
 
 ## Water, Sewers, and Industrial Waste Discharge Restrictions
 
