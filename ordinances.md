@@ -70,6 +70,9 @@ Subdivisions
 * [ ] Require bridge over creeks no further apart than one every half-mile.
 * [ ] Require straight through roads in large lots (not that zig-zag nonsense that fails at
 	discouraging traffic).
+* [ ] Require residential neighborhoods include park land with a playground.
+* [ ] Require greenways on both sides of all creeks. This is done in Korea for flood control,
+	but is also a great amenity.
 
 ## Trees
 
