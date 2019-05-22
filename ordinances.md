@@ -128,8 +128,8 @@ Zoning
 
 * [ ] Commercial buildings must be multi-story, preferably with residential or offices above
 	retail. Reserving the second floor for private storage space for ground-floor use shall not be
-	permitted. The first two stories must be open for access and use.
-* [ ] Building footprint may be increased to a square 300 feet on each side if all walls facing the
+	permitted. The first two stories must be open for access and active use.
+* [ ] The building footprint may be increased to a square 300 feet on each side if all walls facing the
 	streets will be active with at least two separate leasees/stores/offices having their entrances
 	no more than 150 feet apart.
 * [ ] Stores cannot be more than 10,000 square feet on the ground floor (or any floor with direct
@@ -164,9 +164,10 @@ Zoning
 * Hanes Mall, Winston-Salem, NC: 1,558,860 sqft [GLA]
 * SouthPark Mall, Charlotte, NC: 1,676,223 sqft [GLA]
 
-* [ ] Stores on the ground floor must keep their windows open, always displaying something
-	or allowing view into the store. This is targeting vape shops that cover their windows to
-	stop any prying eyes&hellip; They can go on the second floor.
+* [ ] Stores on the ground floor must keep their windows open, always displaying something or
+	allowing visibility into the store.
+	* This is targeting vape shops that cover their windows to stop any prying eyes&hellip; They
+		can go on the second floor if they do not wish to comply.
 * [ ] Gyms are not allowed on the first floor, except a narrow entrance as desired, but no
 	more than about 30 feet wide facing the street.
 * [ ] The city's Thoroughfares must be lined with commercial property. Prefer retail on the
@@ -174,14 +175,20 @@ Zoning
 	the thoroughfare, not a private street or backyard parking lot.
 * [ ] An example of storefront requirements from
 	[Midtown Atlanta](https://www.midtownatl.com/_files/docs/retail-storefront-design-manual.pdf)
-	may provide inspiration for us retailers.
-* [ ] Along Thoroughfares, signs will not be restricted up to the second floor.
+	may provide inspiration for retailers.
+* [ ] Along Thoroughfares, permanent buildings signs will be allowed on the ground floor and the
+	floor above it. The total number of signs on these two floors shall not be constrained
+	(provided they do not obstruct entrances, fire exits, and the street number signs), but a
+	constraint on the size of individual signs may be imposed. This is so retail, restaurants, and
+	other businesses inside a building may be noticeable by pedestrians and drivers to encourage
+	them to come into the building. Temporary signage, such as for advertisements, may be
+	more strictly restricted.
 * [ ] Buildings with multiple stores, restaurants, or other retail open to the public must
 	feature signs on the exterior by the main entrance showing all such stores accessible through
-	the main entrance and the floor number of each. See also the street signs in China and Japan
-	for detailed example.
-* [ ] All elevators must include the store directory within the elevator, normally on the back
-	wall. This is standard in China, Korea, and Japan and reminds people which floor they are
+	the main entrance and the floor number of each for easy pedestrian reference. See also the
+	street signs in China and Japan for detailed examples.
+* [ ] All elevators must include the business directory within the elevator, normally on the
+	back wall. This is standard in China, Korea, and Japan and reminds people which floor they are
 	looking for.
 
 ### Industrial Districts
@@ -218,8 +225,12 @@ Zoning
 	Business District (CBD) will be allowed within office buildings. This district of no
 	off-street parking may also be extended to other areas of concentrated office space served by
 	public transit.
-* Large retail stores and offices that require off-street parking are required to join a
+* [ ] Large retail stores and offices that require off-street parking are required to join a
 	parking collective that provides and maintains public off-street parking for its members.
+* [ ] Place two pairs of one-way streets, one north-south, one east-west, each street having 2 or
+	3 lanes, underground through the CBD. Egress and ingress into underground off-street parking
+	can only be from these streets. Above these streets will be linear parks for pedestrian access
+	to the buildings.
 
 #### Restriction on use of off-street parking and loading spaces.
 The storage of merchandise or materials, or the repair of motor vehicles or any kind of equipment
