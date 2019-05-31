@@ -31,6 +31,31 @@ Ordinances
 
 ## Motor Vehicles and Traffic
 
+## Neighborhoods
+
+The city shall be a federation consisting of multiple Neighborhoods, which will be managed and
+governed by Business Improvement Districts (BIDs) (or Municipal Services Districts (MSDs) under
+North Carolina statute).
+
+* BIDs cannot be larger than 1 mile by 1 mile. They should be centered upon the intersection of two
+	Boulevard Thoroughfares.
+* BIDs shall be responsible for the following within their boundaries:
+	* communal off-street parking facilities
+	* litter cleanup
+* BIDs may be responsible for the following within their boundaries:
+	* storm and sanitary sewer mains
+	* streetscapes, including sidewalks, drainage, lighting
+	* security
+	* relocating powerlines underground
+	* bike paths
+	* parks, playgrounds, and plazas
+	* sponsoring events
+	* promoting the district
+	* watershed improvement projects
+* BIDs need to share oversight and governing between residents and businesses.
+	* like maybe two co-equal boards, one of representatives elected by the residents and the other
+		selected by business owners in the district.
+
 ## Offenses
 
 ## Parks and Recreation
@@ -73,7 +98,7 @@ Subdivisions
 * [ ] Require a grid (or very near grid) street layout.
 * [ ] Prohibit cul-de-sacs (at least for pedestrians).
 * [ ] Require multiple connections in and out.
-* [ ] Require bridge over creeks no further apart than one every half-mile.
+* [ ] Require bridges over creeks no more than a half-mile apart.
 * [ ] Require straight through roads in large lots (not that zig-zag nonsense that fails at
 	discouraging traffic).
 * [ ] Require residential neighborhoods include park land with a playground.
@@ -84,7 +109,12 @@ Subdivisions
 
 ## Traffic and Vehicles
 
-## Trees
+Trees
+-----
+
+* [ ] Require preservation of trees along creeks and in parks
+* [ ] Require preservation and planting of trees on residential properties
+* [ ] Require preservation and planting of trees in plazas
 
 ## Utilities
 
