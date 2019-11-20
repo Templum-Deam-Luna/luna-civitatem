@@ -15,7 +15,7 @@
 	"homepage": "https://github.com/Templum-Deam-Luna/luna-civitatem#readme",
 	"devDependencies": {
 		"@mightyplow/sass-dedup-importer": "^1.1.1",
-		"angular": "^1.6.4",
+		"angular": "^1.7.9",
 		"angular-route": "^1.6.4",
 		"babel-plugin-transform-exponentiation-operator": "^6.24.1",
 		"babel-plugin-transform-remove-console": "^6.8.3",
