@@ -42,7 +42,7 @@
 		"gulp-strip-css-comments": "^1.2.0",
 		"gulp-webpack": "^1.5.0",
 		"gulp-webserver": "^0.9.1",
-		"jquery": "^3.2.1",
+		"jquery": "^3.5.0",
 		"vinyl-named": "^1.1.0",
 		"yargs": "^8.0.2"
 	}
